@@ -15,6 +15,12 @@ This tool helps job seekers save time by centralizing opportunities from differe
 
 ---
 
+## Upcoming Feature
+I am working on adding **custom user URL support**.  
+This will allow job seekers to paste a job board URL directly into the dashboard and fetch listings in real-time. Stay tuned!
+
+---
+
 ## Tech Stack
 
 - **Python 3.9+**
